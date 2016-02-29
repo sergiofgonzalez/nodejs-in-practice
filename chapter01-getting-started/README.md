@@ -1,4 +1,4 @@
-# Chapter 1: Getting started
+# Chapter 1 &mdash; Getting started
 > Node.js first example
 
 ## 001-hello-streams
